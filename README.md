@@ -145,7 +145,11 @@ Modul9.latihan.Latihan3.ExceptionB
   Pada modul 9 mempelajari mengenai exception handling yaitu penanganan ketika terjadi masalah atau error code. Pengunaan exception digunakan pada error code nya dan penanganan yang sesuai jika terjadi error. 
   
   Exception sendiri terdapat beberapa tipe atau jenis dan salah satunya adalah Checked Exception dan Unchecked Exception,Kemudian mempelajari penggunaan try, catch, finally, throw dan throws serta contoh penggunaanya, antara lain catch, finally, throw dan throws yang dimana mempunyai fungsinya masing-masing
+  
   • Try-catch dilakukan bersamaan dan try berisikan syntax yang mungkin akan terjadi error atau yang menyebabkan exception.
+  
   • Catch berisikan penanganan error dari program try.
+  
   • Throw dan throws, yaitu melempar program yang kemungkinan akan terjadi error dan kemudian nantinya akan dilakukan pemanggilannya denga menambahkan exception solusinya.
+  
   • Finally digunakan untuk mencetak dari program yang dijalankan atau akhir dari peogram yang dijalakan walau hasilnya normal atau berdasarkan exception yang telah dijalankan.
